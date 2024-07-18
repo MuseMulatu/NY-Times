@@ -24,7 +24,7 @@ export const Footer = () => {
   }, []);
 
   return (
-    <footer className={styles.footer}> Muse Mulatu in collaboration with || 
+    <footer className={styles.footer}> Muse Mulatu in collab with || 
       <Logo inHeader={false} />
       {footerItems1 && (
         <FooterItemsRow1

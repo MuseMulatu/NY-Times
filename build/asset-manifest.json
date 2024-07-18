@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe/static/css/main.2e0eb217.css",
+    "main.js": "/tic-tac-toe/static/js/main.a5e6b0e7.js",
+    "static/media/nytimes-placeholder.jpg": "/tic-tac-toe/static/media/nytimes-placeholder.9c7ae89ebb304c607676.jpg",
+    "static/media/ny-times-logo.png": "/tic-tac-toe/static/media/ny-times-logo.a238ac4b8185e7720cbe.png",
+    "index.html": "/tic-tac-toe/index.html",
+    "main.2e0eb217.css.map": "/tic-tac-toe/static/css/main.2e0eb217.css.map",
+    "main.a5e6b0e7.js.map": "/tic-tac-toe/static/js/main.a5e6b0e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0eb217.css",
+    "static/js/main.a5e6b0e7.js"
+  ]
+}
